@@ -1,0 +1,5 @@
+#include "../dx_library/Graphics/dx_graphics.hpp"
+#include "../dx_library/Scrollbar/dx_scroll_bar.hpp"
+#include "../dx_library/Graphics/dx_application.hpp"
+#include "../dx_library/Graphics/dx_canvas.hpp"
+#include "../dx_library/Graphics/dx_painter.hpp"
