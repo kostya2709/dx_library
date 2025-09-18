@@ -21,5 +21,8 @@ $ make
 ## Plugin API
 Plugins share common interface, so they can be easily added to the Tools palette. For example, there is a Gaussian Blur plugin. The API is described in details in plugin_api/api/api.hpp.
 
+## Example
+![plot](./images/examples/graphic_editor.png)
+
 # Trie
 The library also contains an implementation of a trie (or prefix tree) and a tool for visualization - machine_drawer. The tool creates a graphviz file which allows to visualize all trie's nodes (verteces) and connections (edges).

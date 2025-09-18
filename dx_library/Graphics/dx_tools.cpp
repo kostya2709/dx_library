@@ -57,5 +57,5 @@ dx_tool_box::dx_tool_box (dx_point point1, dx_point point2, int tool_num_, dx_to
 void dx_tool_box::operate (dx_point mouse) noexcept
 {
     tool_manager->active_tool = tool_num;
-    dprintf(2, "Active Tool: %d\n", tool_num);
+    // dprintf(2, "Active Tool: %d\n", tool_num);
 }
