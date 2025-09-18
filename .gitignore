@@ -509,8 +509,6 @@ local.properties
 *.a
 *.la
 *.lai
-*.so
-*.so.*
 *.dll
 *.dylib
 
@@ -961,7 +959,6 @@ _deps
 *.pch
 
 # Compiled Dynamic libraries
-*.so
 *.dylib
 *.dll
 
@@ -1010,8 +1007,6 @@ _deps
 
 # Shared objects (inc. Windows DLLs)
 *.dll
-*.so
-*.so.*
 *.dylib
 
 # Executables
